@@ -1,6 +1,6 @@
 // In the name of GOD
 // Created by: Faraz Golshahi
-// contact: info@farazgolshahi.com
+// Contact: info@farazgolshahi.com
 
 #include <bits/stdc++.h>
 using namespace std;
