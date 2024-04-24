@@ -1,3 +1,9 @@
+# In the name of GOD
+# Created by: Faraz Golshahi
+# Email: Faraz.golshahi8151@gmail.com
+# Github: https://github.com/FarazGolshahii
+# Question link: https://quera.org/problemset/66862/
+
 from itertools import accumulate, product
 s = input()
 

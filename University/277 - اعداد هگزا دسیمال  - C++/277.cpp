@@ -1,3 +1,9 @@
+// In the name of GOD
+// Created by: Faraz Golshahi
+// Email: Faraz.golshahi8151@gmail.com
+// Github: https://github.com/FarazGolshahii
+// Question link: https://quera.org/problemset/277/
+
 #include <iostream>
 #include <string>
 #include <algorithm>
@@ -33,7 +39,6 @@ int main()
         s += '0' + temp;
         reverse(s.begin(), s.end());
         myi = stoll(s);
-//        cout << "int: " << myb << "\tbase: " << myi << endl;
         ++count;
         ++myb;
     }

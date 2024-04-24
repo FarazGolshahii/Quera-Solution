@@ -1,3 +1,10 @@
+# In the name of GOD
+# Created by: Faraz Golshahi
+# Email: Faraz.golshahi8151@gmail.com
+# Github: https://github.com/FarazGolshahii
+# Question link: https://quera.org/problemset/345/
+
+
 def Input():
     lines = []
     while True:

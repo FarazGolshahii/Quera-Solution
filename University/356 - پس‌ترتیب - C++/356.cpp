@@ -1,4 +1,9 @@
-// C++ program to print postorder traversal from preorder and inorder traversals
+// In the name of GOD
+// Created by: Faraz Golshahi
+// Email: Faraz.golshahi8151@gmail.com
+// Github: https://github.com/FarazGolshahii
+// Question link: https://quera.org/problemset/356/
+
 #include <iostream>
 using namespace std;
 #define int int
@@ -42,6 +47,5 @@ int32_t main()
 		cin >> in[i];
 	for (int i = 0;i < n;i++)
 		cin >> pre[i];
-	//cout << "Postorder traversal " << endl;
 	printPostOrder(in, pre, n);
 }
