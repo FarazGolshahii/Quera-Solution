@@ -1,0 +1,23 @@
+<!--In the name of GOD-->
+<!--Created by: Faraz Golshahi-->
+<!--Email: Faraz.golshahi8151@gmail.com-->
+<!--Github: https://github.com/FarazGolshahii-->
+<!--Question link: https://quera.org/problemset/21210/-->
+
+{% load static %}
+{% load filters %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" type="text/css" href="{% static "CSS/intro.css" %}">
+</head>
+<body>
+<div class='intro'>
+    <div class='wave -one'></div>
+    <div class='wave -two'></div>
+    <div class='wave -three'></div>
+    <div class='title'>{% digits_to_persian_numbers postal_card_text %}</div>
+</div>
+</body>
+</html>
